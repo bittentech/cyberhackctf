@@ -1,0 +1,5 @@
+My friend Inndy pwned a website. He said it is not on a domain name, just an IP Address. Can you help me find out that IP address?
+
+Note: If IP is 10.10.10.1 then flag would be cyberhack{10.10.10.1}
+
+150

@@ -1,0 +1,7 @@
+Sometimes, not all things are left translated!
+
+Format - cyberhack{translated_word}
+
+Author: Mrunal Chawda
+
+200

@@ -1,0 +1,8 @@
+Nancy is requesting the DNS for a hostname. I am requesting the same server with Nancy's source address in the request, for a different domain, but at the same time. What am I trying to achieve? What is that term called?
+
+Flag format: cyberhack{ANSWER}
+(Replace spaces with '_' if more than one word)
+
+Author: Ansh Bhawnani
+
+20

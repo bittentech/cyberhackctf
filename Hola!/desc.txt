@@ -1,0 +1,7 @@
+Ever heard about access points? How are they identified by other devices? They transmit something special, periodically.
+
+Flag format: cyberhack{ANSWER}
+
+Author: Ansh Bhawnani
+
+10
