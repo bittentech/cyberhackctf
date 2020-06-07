@@ -1,0 +1,7 @@
+They asked to rebuild the key storage. Can you get me something that can accomplish it?
+
+Flag format: cyberhack{path}
+
+Author: Mrunal Chawda
+
+150
