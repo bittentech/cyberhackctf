@@ -1,0 +1,9 @@
+My friend wants to go eat somewhere, please tell me the nearest restaurant from the place where my friend is.
+
+He sent me a photo! You know what to do ;-)
+
+Flag Format - cyberhack{restaurant-name}
+
+Author: http.deep
+
+150
