@@ -1,0 +1,8 @@
+I was not given much recognition in HTTP/1.0. But now I have my own identity in HTTP/1.1. I was separated from temporary movement code. What is my status code?
+
+Flag format: cyberhack{ANSWER}
+(Replace spaces with '_' if more than one word)
+
+Author: Ansh Bhawnani
+
+25

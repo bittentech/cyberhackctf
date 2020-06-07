@@ -1,0 +1,8 @@
+I am a very popular open source IDS. If I want to block a TCP connection by a socket, what response (resp) mechanism should I use?
+
+Flag format: cyberhack{ANSWER}
+(Replace spaces with '_' if more than one word)
+
+Author: Ansh Bhawnani
+
+25

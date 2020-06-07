@@ -1,0 +1,13 @@
+Helo Dear Bob.
+I hope you are at home and safe. Please tell a method how do I include just a period in a line. This server will terminate my message when I send a dot.
+Take care, Alice.
+
+.
+
+
+Flag format: cyberhack{ANSWER}
+(Replace spaces with '_' if more than one word)
+
+Author: Ansh Bhawnani
+
+30

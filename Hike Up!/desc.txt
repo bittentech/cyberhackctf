@@ -1,0 +1,8 @@
+The company has to send a receipt of the payment made by Michael. But they are waiting for the order to be ready. They send the receipt with the order. So if the order is delayed, the receipt is too. This technology is popular in TCP communication. What is it called?
+
+Flag format: cyberhack{ANSWER}
+(Replace spaces with '_' if more than one word)
+
+Author: Ansh Bhawnani
+
+20

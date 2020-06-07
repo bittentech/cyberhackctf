@@ -1,0 +1,8 @@
+I am an OS. I am simple. I can help you in DNS. I have a term for the resolver that I have. Do you know?
+
+Flag format: cyberhack{ANSWER}
+(Replace spaces with '_' if more than one word)
+
+Author: Ansh Bhawnani
+
+10
