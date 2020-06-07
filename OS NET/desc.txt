@@ -1,0 +1,9 @@
+I was working on my website and encrypted your flag with a python code can you find the key to decode the encrypted text.
+
+Change a with big a it will help you.
+
+https://github.com/bittentech/cyberhackctf/tree/master/OS%20NET
+
+Author: R0X4R
+
+400

@@ -1,0 +1,7 @@
+My friend sent me a photograph. I wanna know the zipcode of that place in the image.
+
+https://github.com/bittentech/cyberhackctf/tree/master/Storage
+
+Author: http.deep
+
+200

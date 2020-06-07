@@ -1,0 +1,7 @@
+Find the strings to reveal the hidden flag.
+
+https://github.com/bittentech/cyberhackctf/tree/master/Threadify
+
+Author: Raja Prabhu
+
+100

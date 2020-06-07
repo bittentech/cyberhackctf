@@ -1,0 +1,9 @@
+The management staff has constantly insisted Mr. Chris Brown Chandelier to induce maximum randomness into their security algorithms. He always denied it due to the budget problems, but we think he lacks knowledge of standard applications of symmetric ciphers. Can you show him what problem his actions can produce?
+
+https://github.com/bittentech/cyberhackctf/tree/master/Null%20Entropy
+
+NOTE: The '*' character in the string means the correct byte is redacted.
+
+Author: Ansh Bhawnani
+
+400
