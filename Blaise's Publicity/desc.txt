@@ -1,0 +1,7 @@
+A rookie has tried to harden the identity of Mr. Blaise, with a modern day public key algorithm. Can you find out the secret message of Mr. Blaise?
+
+https://github.com/bittentech/cyberhackctf/tree/master/Blaise's%20Publicity
+
+Author: Ansh Bhawnani
+
+400
